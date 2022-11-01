@@ -1,9 +1,9 @@
-import { Link } from "react-router-dom";
+
 import { GiHamburgerMenu } from 'react-icons/gi';
 import Nav, { Brand ,Menu,MenuLink,Hamburger} from "./Navbar.style";
 import {useState} from "react"
 
-{/* <nav>
+/* <nav>
 <a href="">
   <i>{"<Clarusway/>"}</i>
   <span>Recipe</span>
@@ -15,7 +15,7 @@ import {useState} from "react"
   <Link to="register">Register</Link> 
   <Link to="login">Logout</Link> 
 </a>
-</nav> */}
+</nav> */
 
 // Böyle başla sonra Linkleri stillendirmeyle devam et
 
